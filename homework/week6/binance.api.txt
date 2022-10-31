@@ -1,0 +1,6 @@
+
+root url:
+https://api.binance.com/
+
+endpoint to retrieve klines:
+GET /api/v3/klines
